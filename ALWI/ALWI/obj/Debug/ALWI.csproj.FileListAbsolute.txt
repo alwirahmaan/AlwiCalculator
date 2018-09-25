@@ -1,0 +1,10 @@
+C:\Users\Revnoob\Desktop\ALWI\ALWI\obj\Debug\ALWI.csprojAssemblyReference.cache
+C:\Users\Revnoob\Desktop\ALWI\ALWI\obj\Debug\ALWI.Form1.resources
+C:\Users\Revnoob\Desktop\ALWI\ALWI\obj\Debug\ALWI.Properties.Resources.resources
+C:\Users\Revnoob\Desktop\ALWI\ALWI\obj\Debug\ALWI.csproj.GenerateResource.cache
+C:\Users\Revnoob\Desktop\ALWI\ALWI\obj\Debug\ALWI.csproj.CoreCompileInputs.cache
+C:\Users\Revnoob\Desktop\ALWI\ALWI\bin\Debug\ALWI.exe.config
+C:\Users\Revnoob\Desktop\ALWI\ALWI\bin\Debug\ALWI.exe
+C:\Users\Revnoob\Desktop\ALWI\ALWI\bin\Debug\ALWI.pdb
+C:\Users\Revnoob\Desktop\ALWI\ALWI\obj\Debug\ALWI.exe
+C:\Users\Revnoob\Desktop\ALWI\ALWI\obj\Debug\ALWI.pdb
